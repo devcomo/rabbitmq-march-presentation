@@ -1,6 +1,6 @@
 # ComoRichWeb AMQP Demo
 This is a quickly thrown together demo of how rabbitMQ works that I
-threw together for (ComoRichWeb)[http://comorichweb.posterous.com] March
+threw together for [ComoRichWeb](http://comorichweb.posterous.com) March
 meetup.
 
 ## Running It
